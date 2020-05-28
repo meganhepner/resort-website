@@ -1,0 +1,17 @@
+h1 {
+  color: #004709;
+  text-align: left;
+  font-style : bold;
+
+}
+
+h2 {
+  color: #9c91cb;
+  text-align: center;
+}
+
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  text-align: center;
+}
