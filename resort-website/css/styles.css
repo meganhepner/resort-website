@@ -1,13 +1,15 @@
 h1 {
-  color: blue;
+  color: #c79700;
   text-align: center;
+
 }
 
 h2 {
-  font-style: italic;
+  color: white;
   text-align: center;
 }
 
 p {
-  font-family: sans-serif;
+  font-family: verdana;
+  font-size: 20px;
 }
